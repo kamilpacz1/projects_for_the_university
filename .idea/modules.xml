@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_strukturalne/001_strukturalne.iml" filepath="$PROJECT_DIR$/001_strukturalne/001_strukturalne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_klasy/002_klasy.iml" filepath="$PROJECT_DIR$/002_klasy/002_klasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_dziedziczenie/003_dziedziczenie.iml" filepath="$PROJECT_DIR$/003_dziedziczenie/003_dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004_interface/004_interface.iml" filepath="$PROJECT_DIR$/004_interface/004_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005_kolekcje/005_kolekcje.iml" filepath="$PROJECT_DIR$/005_kolekcje/005_kolekcje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006_grywojenne/006_grywojenne.iml" filepath="$PROJECT_DIR$/006_grywojenne/006_grywojenne.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+public enum Typ {
+    MOTOCYKL,
+    MOTOROWER,
+    ROWER,
+    HULAJNOGA_TRADYCYJNA,
+    HULAJNOGA_ELEKTRYCZNA
+}
